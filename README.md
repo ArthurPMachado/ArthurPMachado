@@ -1,16 +1,16 @@
-### Hi there 👋
+![Header](https://github.com/ArthurPMachado/ArthurPMachado/blob/master/readmeprofile.jpg "Header")
 
-<!--
-**ArthurPMachado/ArthurPMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Arthur Pereira Machado
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurpmachado/)](https://www.linkedin.com/in/arthurpmachado/)
+[![Rocketseat Badge](https://img.shields.io/badge/-arthurmachado-black?style=flat-square&labelColor=6633cc&label=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/arthurmachado)](https://app.rocketseat.com.br/me/arthurmachado) 
+[![Gmail Badge](https://img.shields.io/badge/-machadoparthur1@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:machadoparthur1@gmail.com)](mailto:machadoparthur1@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fala pessoal
+
+Tenho 21 e desde que comecei a entrar no mundo da tecnologia eu sabia que era o lugar que queria estar, entegrar valor para outras pessoas e perceber que seu trabalho ajudou alguém não tem como mensurar.
+
+Mas a maior paixão que tenho é trabalhar com outras pessoas, principalmente na posição de líder, tomando a frente para resolver um determinado problema, com todos crescendo profissionalmente e alcançando seus objetivos!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurPMachado)](https://github.com/ArthurPMachado/github-readme-stats)
+[![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPMachado)](https://github.com/ArthurPMachado/github-readme-stats)
