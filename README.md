@@ -10,7 +10,7 @@
 
 Tenho 21 e desde que comecei a entrar no mundo da tecnologia eu sabia que era o lugar que queria estar, entegrar valor para outras pessoas e perceber que seu trabalho ajudou alguém não tem como mensurar.
 
-Mas a maior paixão que tenho é trabalhar com outras pessoas, principalmente na posição de líder, tomando a frente para resolver um determinado problema, com todos crescendo profissionalmente e alcançando seus objetivos!
+Mas a maior paixão que tenho é trabalhar com outras pessoas, com todos crescendo profissionalmente e alcançando seus objetivos!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ArthurPMachado)](https://github.com/ArthurPMachado/github-readme-stats)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPMachado)](https://github.com/ArthurPMachado/github-readme-stats)
