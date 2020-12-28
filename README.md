@@ -12,5 +12,5 @@ Tenho 21 e desde que comecei a entrar no mundo da tecnologia eu sabia que era o 
 
 Mas a maior paixão que tenho é trabalhar com outras pessoas, com todos crescendo profissionalmente e alcançando seus objetivos!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ArthurPMachado)](https://github.com/ArthurPMachado/github-readme-stats)
-[![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPMachado)](https://github.com/ArthurPMachado/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ArthurPMachado&theme=dark&layout=compact)](https://github.com/ArthurPMachado/github-readme-stats)
+[![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPMachado&theme=midnight-purple&show_icons=true)](https://github.com/ArthurPMachado/github-readme-stats)
