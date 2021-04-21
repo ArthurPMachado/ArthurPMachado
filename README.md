@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-machadoparthur1@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:machadoparthur1@gmail.com)](mailto:machadoparthur1@gmail.com)
 
 <h1 align="center">Fala ae pessoal 👋, sou Arthur Pereira Machado</h1>
-<h3 align="center">Tenho 21 e desde que comecei a entrar no mundo da tecnologia eu sabia que era o lugar que queria estar, entegrar valor para outras pessoas e perceber que seu trabalho ajudou alguém é algo que não tem como mensurar.</h3>
+<h3 align="center">Tenho 21 e desde entrei no mundo da tecnologia eu sabia que era o lugar que queria estar, entegrar valor para outras pessoas e perceber que seu trabalho ajudou alguém é algo que não tem como mensurar.</h3>
 
 - 🌱 No momento estou aprendendo **Cloud Aws, testes com Jest, Mocha e Chai e Nodemailer**
 
