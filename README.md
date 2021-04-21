@@ -1,7 +1,5 @@
 ![Header](https://github.com/ArthurPMachado/ArthurPMachado/blob/master/readmeprofile.jpg "Header")
 
-# Arthur Pereira Machado
-
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurpmachado/)](https://www.linkedin.com/in/arthurpmachado/)
 [![Rocketseat Badge](https://img.shields.io/badge/-arthurmachado-black?style=flat-square&labelColor=6633cc&label=Rocketseat&logoColor=white&link=https://app.rocketseat.com.br/me/arthurmachado)](https://app.rocketseat.com.br/me/arthurmachado) 
 [![Gmail Badge](https://img.shields.io/badge/-machadoparthur1@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:machadoparthur1@gmail.com)](mailto:machadoparthur1@gmail.com)
