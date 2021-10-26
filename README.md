@@ -22,3 +22,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ArthurPMachado&theme=dark&layout=compact)](https://github.com/ArthurPMachado/github-readme-stats)
 [![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=ArthurPMachado&theme=midnight-purple&show_icons=true)](https://github.com/ArthurPMachado/github-readme-stats)
+
+<div>
+  <br/>
+  <p align="center">
+    Número de visitas: <br> <img src="https://profile-counter.glitch.me/ArthurPMachado/count.svg" alt="contador de visitas">
+  </p>
+</div>
