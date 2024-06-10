@@ -6,7 +6,7 @@
 
 - 🔥 Tech Lead, Backend Web Developer & focusing on creating solutions and deliverying value
 
-- 🔭 I'm currently working at [Coren](https://www.linkedin.com/company/corencdp/mycompany/)
+- 🔭 I'm currently working at [InstaCarro](https://www.linkedin.com/company/instacarro/mycompany/)
 
 - 💬 Ask me about **Typescript, NodeJS, Amazon Web Services, Scrum, Leadership**
 
