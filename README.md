@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Typescript, NodeJS, Amazon Web Services, Scrum, Leadership**
 
-- ⚡ Fun fact **No more glasses due to LASIK eye surgery!! 🤓**
+- ⚡ Fun fact **No more glasses due to LASIK eye surgery!!**
  <br><br>
 
 ## 🛠 &nbsp;Tech Stack
