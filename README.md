@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArthurPMachado&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Tech Lead, Backend Web Developer & focusing on creating solutions and deliverying value
+- 🔥 Backend Software Engineer & focusing on creating solutions and deliverying value
 
 - 🔭 I'm currently working at [InstaCarro](https://www.linkedin.com/company/instacarro/mycompany/)
 
