@@ -6,7 +6,7 @@
 
 - 🔥 Backend Software Engineer & focusing on creating solutions and deliverying value
 
-- 🔭 I'm currently working at [InstaCarro](https://www.linkedin.com/company/instacarro/mycompany/)
+- 🔭 I'm currently working at [OmniChat](https://omni.chat/)
 
 - 💬 Ask me about **Typescript, NodeJS, Amazon Web Services, Scrum, Leadership**
 
